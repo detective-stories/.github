@@ -31,6 +31,10 @@
 - _markovify: Shakespeare_
     - [Code](https://github.com/detective-stories/.github/tree/main/code/markovify)
 - _Text Classification_
-    - [Code (TODO)]
+    - [Code](https://github.com/detective-stories/.github/tree/main/code/classification)
+
+### Impact of Each Team Member
+
+Each team member contributes 33.(3)% to each homework/presentation.
 
 Feel free to explore our work, and if you're interested, collaborate or provide feedback. Thank you for stopping by our NLP journey!
