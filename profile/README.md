@@ -29,7 +29,7 @@
 
 ### Homeworks
 - _markovify: Shakespeare_
-    - [Code (TODO)]
+    - [Code](https://github.com/detective-stories/.github/tree/main/code/markovify)
 - _Text Classification_
     - [Code (TODO)]
 
